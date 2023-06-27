@@ -1,0 +1,39 @@
+header{
+    font-family: cambria;
+    background-color:lightslategray;
+    padding: 10px;
+}
+
+footer {
+    font-family: cambria;
+    background-color:lightslategray;
+    padding: 10px;
+}
+
+body {
+    
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: cambria;  
+}
+
+h2 {
+    font-family: cambria;
+}
+
+p {
+    font-family: cambria;
+}
+
+h3{
+    margin-left: 20px;
+   padding: 25px;
+}
+
+.inline box{
+    display: inline; 
+    margin-left: 300 px;
+    padding-left: 300px;
+ }
